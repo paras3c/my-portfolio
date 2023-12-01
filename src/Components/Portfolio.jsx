@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Deep-dive into APIs : Theoretical aspects",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Deep-dive into APIs : Theoretical aspects.",
+    url: "https://mrsiddhartha.hashnode.dev/deep-dive-into-apis-theoretical-aspects",
   },
   {
-    title: "Web Development for Beginners",
+    title: "HTTP, HTTPS, and APIs: Understanding the Relationship",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "HTTP, HTTPS, and APIs: Understanding the Relationship.",
+    url: "https://mrsiddhartha.hashnode.dev/http-https-and-apis-understanding-the-relationship",
   },
   {
-    title: "My Resume Site",
+    title: "Static Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My static portfolio, includes all of my social links.",
+    url: "https://bio.link/mrsiddhartha",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Mastering Git & GitHub: A GDSC Tech Session!",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Unleash the Power of Git & GitHub! Join us for an epic tech session with Siddhartha Rajbongshi, Cyber Security Lead at GDSC Gauhati University, and Roktim Kamal Senapoty, Author of GitNinja Handbook. Get ready to supercharge your version control skills!.",
+    url: "https://www.youtube.com/watch?v=mkU3njbNuVo",
   },
 ];
 
