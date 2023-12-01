@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from ""C:\Users\iamre\Downloads\hacker-noon-t2fKRcKF3fw-unsplash.jpg"";
+import image from "../images/hacktshirt.jpg";
 
 const imageAltText = "black tshirt with codes printed in it";
 
